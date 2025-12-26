@@ -13,6 +13,7 @@ int linearSearch(int arr[] , int size,int searchEle){
 
 int main(){
     int size = 11; 
+    
     int arr[size] = {1,5,3,4,3,2,7,64,36,75,2};
 
     int searchEle;
